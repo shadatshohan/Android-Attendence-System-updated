@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1025665984449",
+    "firebase_url": "https://androidattendencesystem.firebaseio.com",
+    "project_id": "androidattendencesystem",
+    "storage_bucket": "androidattendencesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025665984449:android:a48a1f2920525fa9",
+        "android_client_info": {
+          "package_name": "com.example.asus.androidattendencesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025665984449-pd3iv960e6ed7on4ufsus9l0al7k286k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.androidattendencesystem",
+            "certificate_hash": "9888c285c76e9048518c73cac2cc214b57a6a18f"
+          }
+        },
+        {
+          "client_id": "1025665984449-7hs7gpvc94h1jbvuu82129uje176malb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNxfeKDoz34A38297iIKA1sqoI9DuuqJY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025665984449-7hs7gpvc94h1jbvuu82129uje176malb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
